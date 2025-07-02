@@ -1,0 +1,3 @@
+food - Rs.222
+cab - Rs.444
+gift - Rs.555
