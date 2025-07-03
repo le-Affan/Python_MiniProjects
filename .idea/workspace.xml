@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdf3da8e-5662-4b3c-b521-402d17c29f55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Simple Calculator/calc_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number Guessing Game/NGG_Prorgram.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Expense_Logger.executor": "Run",
+    "Python.NGG_Prorgram.executor": "Run",
     "Python.calc_program.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
