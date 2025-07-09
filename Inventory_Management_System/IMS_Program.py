@@ -1,13 +1,11 @@
-# Objective : Build a console-based inventory system to manage products in stock using Python OOP.
-
-# Features to Implement:
-# Add new product (name, price, quantity)
-# Update stock quantity
-# Remove product
-# View product details
-# Show total products
-# Exit
-
+# Inventory Management System (Console-based)
+# ---------------------------------------------------------
+# This project is a simple console-based Inventory Management System
+# built using Python's Object-Oriented Programming (OOP) concepts.
+#
+# The focus is on practicing classes, instance/class variables, methods,
+# and list management — not on edge cases like negative inputs or
+# persistent storage.
 
 class InventoryManagement:
     product_count=0
