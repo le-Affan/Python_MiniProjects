@@ -10,7 +10,7 @@ def QuizGame():
 
     score=0
 
-    with open("QnA.txt","r") as file:
+    with open("QnA.txt", "r") as file:
         Questions=file.readlines() #splits the text file into seperate lines to make iterating easier
         for lines in Questions:
             question = ""
